@@ -1,0 +1,11 @@
+{
+  "access-token": ${{ secrets.ACCESS_TOKEN }},
+  "server": "said.social",
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "from-notifications": 1,
+  "max_bookmarks": 80,
+  "max_followers": 80.
+  "max_followings": 80,
+  "reply_interval_in_order": 4
+}
