@@ -3,8 +3,8 @@
   "home-timeline-length": 200,
   "max-followings": 80,
   "from-notifications": 1,
-  "max_bookmarks": 80,
-  "max_followers": 80,
-  "max_followings": 80,
-  "reply_interval_in_order": 4
+  "max-bookmarks": 80,
+  "max-followers": 80,
+  "max-followings": 80,
+  "reply-interval-in-hours": 1
 }
